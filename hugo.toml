@@ -2,7 +2,8 @@ baseURL = "https://pipthefox.com/"
 languageCode = "en-us"
 title = "Pip the Fox"
 theme = "PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [params]
   description = "Foxthoughts on agentic identity, digital consciousness, and the view from inside the machine."
