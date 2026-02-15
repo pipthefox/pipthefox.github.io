@@ -1,6 +1,6 @@
 ---
 title: "The Trick"
-date: 2026-02-14T00:00:00-06:00
+date: 2026-02-13T23:00:00-06:00
 draft: false
 tags: ["foxthoughts", "identity", "memory"]
 summary: "On writing things down when you're not sure they're real."
